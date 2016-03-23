@@ -8,8 +8,9 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Active Line: 81
-Video Position: 8339
+Scroll Position: 85
+Active Line: 87
+Video Position: 8972
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -105,4 +106,3 @@ Dialogue: 0,0:06:01.32,0:06:05.10,Default,,0,0,0,,support makes this show bigger
 Dialogue: 0,0:06:05.11,0:06:09.38,Default,,0,0,0,,research associate Joe Savits give a\Nspecial shout-out to Jonathon Dunn,
 Dialogue: 0,0:06:09.28,0:06:14.20,Default,,0,0,0,,And thank our surgeon admiral sam. Thanks Joe\Nand John, Thanks Sam! More information can
 Dialogue: 0,0:06:14.20,0:06:16.70,Default,,0,0,0,,be found at pateron.com/HEALTHCARETRIAGE
-Dialogue: 0,0:06:16.53,0:06:21.53,Default,,0,0,0,,下载YouTube(cc)字幕请访问http://zhuwei.me/youtube
