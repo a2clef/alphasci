@@ -8,8 +8,9 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: None
 
 [Aegisub Project Garbage]
-Active Line: 6
-Video Position: 375
+Scroll Position: 94
+Active Line: 102
+Video Position: 6635
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -23,100 +24,100 @@ Dialogue: 0,0:00:04.88,0:00:08.04,Default,,0,0,0,,我时常失眠 郁郁寡欢\N
 Dialogue: 0,0:00:08.04,0:00:10.90,Default,,0,0,0,,我会在不合适的时候有哭泣的冲动\NI was prone to crying at inopportune times.
 Dialogue: 0,0:00:10.90,0:00:13.56,Default,,0,0,0,,更糟糕的是 我难以和病人沟通\NEven worse, I had trouble connecting with patients. 
 Dialogue: 0,0:00:13.56,0:00:15.64,Default,,0,0,0,,我觉得我不能让任何人感到高兴\NI felt like I couldn't please anyone, 
-Dialogue: 0,0:00:15.64,0:00:19.18,Default,,0,0,0,,我发现我and I found myself susceptible to feelings of despair and panic.
-Dialogue: 0,0:00:19.18,0:00:23.02,Default,,0,0,0,,I'm a physician! And if I do say so myself, a very well trained one.
-Dialogue: 0,0:00:23.02,0:00:26.52,Default,,0,0,0,,Yet it took an intern support group, the social worker that ran it,
-Dialogue: 0,0:00:26.52,0:00:29.84,Default,,0,0,0,,close friends and my then fiancee and now wife 
-Dialogue: 0,0:00:29.84,0:00:31.84,Default,,0,0,0,,to convince me that I might need help. 
-Dialogue: 0,0:00:31.84,0:00:33.84,Default,,0,0,0,,Even if I couldn't acknowledge it, 
-Dialogue: 0,0:00:33.84,0:00:36.00,Default,,0,0,0,,they could see I was suffering from depression. 
-Dialogue: 0,0:00:36.00,0:00:39.70,Default,,0,0,0,,I wasn't alone! that's the topic of this week's healthcare triage.
-Dialogue: 0,0:00:45.46,0:00:47.00,Default,,0,0,0,,Last month the study in JAMA 
-Dialogue: 0,0:00:47.00,0:00:51.36,Default,,0,0,0,,reviewed all the literature on depression and depressive symptoms in resident physicians.
-Dialogue: 0,0:00:51.36,0:00:54.38,Default,,0,0,0,,They found more than 50 studies on the subject. 
-Dialogue: 0,0:00:54.38,0:00:57.94,Default,,0,0,0,,Researches show that almost 30% of resident physician
-Dialogue: 0,0:00:57.94,0:01:01.28,Default,,0,0,0,,suffer from either symptoms, or a diagnosis of depression. 
-Dialogue: 0,0:01:01.28,0:01:05.52,Default,,0,0,0,,The numbers and how they compare to other professions are almost beside the point.
-Dialogue: 0,0:01:05.52,0:01:09.60,Default,,0,0,0,,Physicians are in a unique position of needing to care for others continuously,
-Dialogue: 0,0:01:09.60,0:01:13.20,Default,,0,0,0,,that strain coupled with an inability to help themselves,
-Dialogue: 0,0:01:13.20,0:01:16.08,Default,,0,0,0,,leaves both patients and doctors at risk.
-Dialogue: 0,0:01:16.08,0:01:20.20,Default,,0,0,0,,Longitudinal studies or those that follow resident over the course of their training, 
-Dialogue: 0,0:01:20.20,0:01:23.08,Default,,0,0,0,,found that the rate of depressive issues in residents 
-Dialogue: 0,0:01:23.08,0:01:26.96,Default,,0,0,0,,increased more than 15 percent within a year of beginning training. 
-Dialogue: 0,0:01:26.96,0:01:30.36,Default,,0,0,0,,Worse, physicians exist in a profession where admitting a problem 
-Dialogue: 0,0:01:30.36,0:01:33.96,Default,,0,0,0,,carries with it a stigma that's more impactful than in some others.
-Dialogue: 0,0:01:33.96,0:01:37.72,Default,,0,0,0,,A study published in 2008 surveyed physicians in Michigan, 
-Dialogue: 0,0:01:37.72,0:01:42.06,Default,,0,0,0,,asking them about their work experiences as well as their depressive symptoms. 
-Dialogue: 0,0:01:42.06,0:01:45.64,Default,,0,0,0,,More than 11 percent reported moderate to severe depression scores. 
-Dialogue: 0,0:01:45.64,0:01:48.50,Default,,0,0,0,,About a quarter of them reported knowing a doctor 
-Dialogue: 0,0:01:48.50,0:01:51.40,Default,,0,0,0,,whose professional standing had been hurt by being depressed. 
-Dialogue: 0,0:01:51.40,0:01:53.50,Default,,0,0,0,,Physicians with moderate to severe depression 
-Dialogue: 0,0:01:53.50,0:01:56.68,Default,,0,0,0,,had a decrease in work productivity and job satisfaction. 
-Dialogue: 0,0:01:56.68,0:01:59.78,Default,,0,0,0,,They were also two to three times more likely to say 
-Dialogue: 0,0:01:59.78,0:02:03.44,Default,,0,0,0,,that they were worried about or had difficulty getting mental health care 
-Dialogue: 0,0:02:03.44,0:02:06.76,Default,,0,0,0,,while the Americans with Disabilities Act passed in 1990 
-Dialogue: 0,0:02:06.76,0:02:11.56,Default,,0,0,0,,prohibits employers from asking broad questions about illnesses when people apply for jobs,
-Dialogue: 0,0:02:11.56,0:02:16.22,Default,,0,0,0,,state medical licensing board still ask specific questions about mental health.
-Dialogue: 0,0:02:16.22,0:02:19.84,Default,,0,0,0,,Because of this, physicians are much more likely to avoid treatment 
-Dialogue: 0,0:02:19.84,0:02:22.06,Default,,0,0,0,,but also more likely to self medicate. 
-Dialogue: 0,0:02:22.06,0:02:26.20,Default,,0,0,0,,Sometimes that medication is potentially appropriate, as with anti-depressants. 
-Dialogue: 0,0:02:26.20,0:02:28.20,Default,,0,0,0,,Often it is not. 
-Dialogue: 0,0:02:28.20,0:02:31.40,Default,,0,0,0,,A 2012 study in JAMA surgery found that 
-Dialogue: 0,0:02:31.40,0:02:35.26,Default,,0,0,0,,more than 15% of the members of the American College of Surgeons 
-Dialogue: 0,0:02:35.26,0:02:39.24,Default,,0,0,0,,had a score on screening test consistent with alcohol abuse or dependence. 
-Dialogue: 0,0:02:39.24,0:02:43.44,Default,,0,0,0,,Among female surgeons the prevalence was more than 25%. 
-Dialogue: 0,0:02:43.44,0:02:48.52,Default,,0,0,0,,Those who were depressed were significantly more likely to abuse or be dependent on alcohol.
-Dialogue: 0,0:02:48.52,0:02:52.02,Default,,0,0,0,,doctors have much easier access to drugs than others as well. 
-Dialogue: 0,0:02:52.02,0:02:56.42,Default,,0,0,0,,Because of this they are more likely to misuse prescription drugs than the general population.
-Dialogue: 0,0:02:56.42,0:03:00.66,Default,,0,0,0,,Anesthesiologist have access to even more drugs than other physicians 
-Dialogue: 0,0:03:00.66,0:03:02.80,Default,,0,0,0,,and their problems are even more common. 
-Dialogue: 0,0:03:02.80,0:03:06.40,Default,,0,0,0,,A 2005 study of anesthesia residency training programs,
-Dialogue: 0,0:03:06.40,0:03:10.70,Default,,0,0,0,,found that eighty percent of them reported experiences with impaired residents
-Dialogue: 0,0:03:10.70,0:03:16.90,Default,,0,0,0,,and almost 20% had experiences with at least one abuse-related death of a doctrine training.
-Dialogue: 0,0:03:16.90,0:03:21.66,Default,,0,0,0,,Unfortunately, depression and substance abuse can lead to further problems including suicide 
-Dialogue: 0,0:03:21.66,0:03:26.34,Default,,0,0,0,,more than 6 percent of surgeons report suicidal ideation in the last year 
-Dialogue: 0,0:03:26.34,0:03:30.10,Default,,0,0,0,,yet only one-quarter of then sought any kind of mental health treatment. 
-Dialogue: 0,0:03:30.10,0:03:35.38,Default,,0,0,0,,Most who did not fear the doing so would affect their ability to obtain a license, 
-Dialogue: 0,0:03:35.38,0:03:37.90,Default,,0,0,0,,even though they were worried about killing themselves.
-Dialogue: 0,0:03:37.90,0:03:40.12,Default,,0,0,0,,The problem is even worse among medical trainees. 
-Dialogue: 0,0:03:40.12,0:03:45.10,Default,,0,0,0,,About 6 percent of them reported thinking about suicide in the last two weeks. 
-Dialogue: 0,0:03:45.10,0:03:47.10,Default,,0,0,0,,Those with a history of depression 
-Dialogue: 0,0:03:47.10,0:03:51.84,Default,,0,0,0,,were almost four times as likely to report recent suicidal thoughts as those without. 
-Dialogue: 0,0:03:51.84,0:03:54.98,Default,,0,0,0,,Too many doctors act on suicidal impulses as well.
-Dialogue: 0,0:03:54.98,0:03:59.20,Default,,0,0,0,,It's estimated that about 400 physicians commit suicide each year, 
-Dialogue: 0,0:03:59.20,0:04:01.58,Default,,0,0,0,,that's about three times as many doctors 
-Dialogue: 0,0:04:01.58,0:04:04.66,Default,,0,0,0,,as were in my medical school class at the University of Pennsylvania. 
-Dialogue: 0,0:04:04.66,0:04:08.82,Default,,0,0,0,,Meta-analyses estimate the rate of suicide among male physicians 
-Dialogue: 0,0:04:08.82,0:04:11.94,Default,,0,0,0,,is a hundred and forty percent that of the general population.
-Dialogue: 0,0:04:11.94,0:04:15.90,Default,,0,0,0,,Among female physicians it's almost two hundred and thirty percent. 
-Dialogue: 0,0:04:15.90,0:04:17.46,Default,,0,0,0,,What makes this important to discuss 
-Dialogue: 0,0:04:17.46,0:04:20.50,Default,,0,0,0,,is not theprevalence of depression in physicians and trainees, 
-Dialogue: 0,0:04:20.50,0:04:21.96,Default,,0,0,0,,although it's clearly too high, 
-Dialogue: 0,0:04:21.96,0:04:25.68,Default,,0,0,0,,\Nit's not whether physicians have the highest suicide rate of any professional, 
-Dialogue: 0,0:04:25.68,0:04:27.60,Default,,0,0,0,,although many people argue that they do. 
-Dialogue: 0,0:04:27.60,0:04:31.58,Default,,0,0,0,,The critical issue here is that too many physicians especially trainees 
-Dialogue: 0,0:04:31.58,0:04:34.50,Default,,0,0,0,,suffer in silence, afraid to ask for help 
-Dialogue: 0,0:04:34.50,0:04:37.76,Default,,0,0,0,,for fear that they will be punished professionally if not personally. 
-Dialogue: 0,0:04:37.76,0:04:40.50,Default,,0,0,0,,I've always been very open about my time in residency,
-Dialogue: 0,0:04:40.50,0:04:43.64,Default,,0,0,0,,and how depression someone robbed me of a few years of my life. 
-Dialogue: 0,0:04:43.64,0:04:46.86,Default,,0,0,0,,When I look back, I think the constant pressure to help others 
-Dialogue: 0,0:04:46.86,0:04:49.60,Default,,0,0,0,,coupled with frequent feelings of helplessness wait on me, 
-Dialogue: 0,0:04:49.60,0:04:53.92,Default,,0,0,0,,a lack of sleep and being away from family and friends left me vulnerable. 
-Dialogue: 0,0:04:53.92,0:04:58.14,Default,,0,0,0,,Seeing children I've bonded with and cared for deeply suffer and die 
-Dialogue: 0,0:04:58.14,0:05:00.14,Default,,0,0,0,,was often more than I could bear. 
-Dialogue: 0,0:05:00.14,0:05:03.76,Default,,0,0,0,,And I think some part of me whether it be physical or behavioral 
-Dialogue: 0,0:05:03.76,0:05:06.36,Default,,0,0,0,,is also predisposed to anxiety and depression. 
-Dialogue: 0,0:05:06.36,0:05:09.22,Default,,0,0,0,,But I'm lucky, thanks to the support of those who love me 
-Dialogue: 0,0:05:09.22,0:05:12.58,Default,,0,0,0,,as well as two excellent therapist, I'm no longer depressed. 
-Dialogue: 0,0:05:12.58,0:05:15.42,Default,,0,0,0,,I remain vigilant, however, against a recurrence. 
-Dialogue: 0,0:05:15.42,0:05:20.22,Default,,0,0,0,,It's important for me and for all physicians to stay on top of their mental health 
-Dialogue: 0,0:05:20.22,0:05:22.10,Default,,0,0,0,,and not wait for a crisis to act. 
-Dialogue: 0,0:05:22.10,0:05:27.02,Default,,0,0,0,,I've also felt fortunate to be in a specialty: pediatrics and a focus: research
-Dialogue: 0,0:05:27.02,0:05:29.22,Default,,0,0,0,,where I didn't fear being found out. 
-Dialogue: 0,0:05:29.22,0:05:32.82,Default,,0,0,0,,Many colleagues still recoil when I talked openly about therapy, 
-Dialogue: 0,0:05:32.82,0:05:34.98,Default,,0,0,0,,or how I plan to go for the rest of my life. 
-Dialogue: 0,0:05:34.98,0:05:38.06,Default,,0,0,0,,I'm sure they'll find this episode concerning as well. 
-Dialogue: 0,0:05:38.06,0:05:40.86,Default,,0,0,0,,But we can't not talk about this.
-Dialogue: 0,0:05:40.86,0:05:44.36,Default,,0,0,0,,Too many of us are suffering and if they can't get help from others, 
-Dialogue: 0,0:05:44.36,0:05:47.20,Default,,0,0,0,,they may try and fail to help themselves.
-Dialogue: 0,0:05:47.20,0:05:53.00,Default,,0,0,0,,Suicide is always a tragedy. A physician committing suicide is a travesty.
+Dialogue: 0,0:00:15.64,0:00:19.18,Default,,0,0,0,,我发现我常受绝望和恐慌情绪的影响\Nand I found myself susceptible to feelings of despair and panic.
+Dialogue: 0,0:00:19.18,0:00:23.02,Default,,0,0,0,,我可是个医生 并非自负 我是个训练有素的医生\NI'm a physician! And if I do say so myself, a very well trained one.
+Dialogue: 0,0:00:23.02,0:00:26.52,Default,,0,0,0,,即使如此 在实习生支持组和为其工作的社工\NYet it took an intern support group, the social worker that ran it,
+Dialogue: 0,0:00:26.52,0:00:29.84,Default,,0,0,0,,我的亲友 以及我的未婚妻（现在的妻子）\Nclose friends and my then fiancee and now wife 
+Dialogue: 0,0:00:29.84,0:00:31.84,Default,,0,0,0,,共同劝诱之下 我才认识到我需要帮助\Nto convince me that I might need help. 
+Dialogue: 0,0:00:31.84,0:00:33.84,Default,,0,0,0,,即使我不承认\NEven if I couldn't acknowledge it, 
+Dialogue: 0,0:00:33.84,0:00:36.00,Default,,0,0,0,,他们能够看出我正受抑郁症折磨\Nthey could see I was suffering from depression. 
+Dialogue: 0,0:00:36.00,0:00:39.70,Default,,0,0,0,,我不是唯一的受害者 而这正是本期医疗速成课的主题 \NI wasn't alone! that's the topic of this week's healthcare triage.
+Dialogue: 0,0:00:45.46,0:00:47.00,Default,,0,0,0,,在美国医学会杂志上个月发表的研究中\NLast month the study in JAMA 
+Dialogue: 0,0:00:47.00,0:00:51.36,Default,,0,0,0,,研究者评审了所有关于常驻医师的抑郁和抑郁症状的文献\Nreviewed all the literature on depression and depressive symptoms in resident physicians.
+Dialogue: 0,0:00:51.36,0:00:54.38,Default,,0,0,0,,他们发现了50多个相关的研究\NThey found more than 50 studies on the subject. 
+Dialogue: 0,0:00:54.38,0:00:57.94,Default,,0,0,0,,研究表明 大约30%的常驻医师\NResearches show that almost 30% of resident physician
+Dialogue: 0,0:00:57.94,0:01:01.28,Default,,0,0,0,,经受着抑郁症状的折磨 或者被确诊为抑郁症\Nsuffer from either symptoms, or a diagnosis of depression. 
+Dialogue: 0,0:01:01.28,0:01:05.52,Default,,0,0,0,,具体的数字及其和其他职业的比较是无关紧要的\NThe numbers and how they compare to other professions are almost beside the point.
+Dialogue: 0,0:01:05.52,0:01:09.60,Default,,0,0,0,,医师的职业特殊性使得他们需要长时间照顾他人\NPhysicians are in a unique position of needing to care for others continuously,
+Dialogue: 0,0:01:09.60,0:01:13.20,Default,,0,0,0,,这个负担 加上他们难以帮助自己的事实\Nthat strain coupled with an inability to help themselves,
+Dialogue: 0,0:01:13.20,0:01:16.08,Default,,0,0,0,,使医患二者都面对风险\Nleaves both patients and doctors at risk.
+Dialogue: 0,0:01:16.08,0:01:20.20,Default,,0,0,0,,在跟踪调查住院医师的实习或受训过程的长期研究中\NLongitudinal studies or those that follow residencies over the course of their training, 
+Dialogue: 0,0:01:20.20,0:01:23.08,Default,,0,0,0,,发现住院医师产生抑郁问题的概率\Nfound that the rate of depressive issues in residents 
+Dialogue: 0,0:01:23.08,0:01:26.96,Default,,0,0,0,,在一年之内 与开始受训时相比增长了15%\Nincreased more than 15 percent within a year of beginning training. 
+Dialogue: 0,0:01:26.96,0:01:30.36,Default,,0,0,0,,更糟糕的是 医师的职业使得如果他们承认问题\NWorse, physicians exist in a profession where admitting a problem 
+Dialogue: 0,0:01:30.36,0:01:33.96,Default,,0,0,0,,会使得他们受到比其他职业相比更多的负面影响\Ncarries with it a stigma that's more impactful than in some others.
+Dialogue: 0,0:01:33.96,0:01:37.72,Default,,0,0,0,,一个2008年发布的研究调查了密歇根的医师\NA study published in 2008 surveyed physicians in Michigan, 
+Dialogue: 0,0:01:37.72,0:01:42.06,Default,,0,0,0,,询问了他们的工作体验和抑郁症状\Nasking them about their work experiences as well as their depressive symptoms. 
+Dialogue: 0,0:01:42.06,0:01:45.64,Default,,0,0,0,,超过11%的医生被评为中到重度的抑郁\NMore than 11 percent reported moderate to severe depression scores. 
+Dialogue: 0,0:01:45.64,0:01:48.50,Default,,0,0,0,,他们之中 有四分之一的人\NAbout a quarter of them reported knowing a doctor 
+Dialogue: 0,0:01:48.50,0:01:51.40,Default,,0,0,0,,听闻有一些医生的职业地位受到抑郁症状的影响\Nwhose professional standing had been hurt by being depressed. 
+Dialogue: 0,0:01:51.40,0:01:53.50,Default,,0,0,0,,患有中到重度抑郁的医生\NPhysicians with moderate to severe depression 
+Dialogue: 0,0:01:53.50,0:01:56.68,Default,,0,0,0,,工作效率和工作体验都因此而下降\Nhad a decrease in work productivity and job satisfaction. 
+Dialogue: 0,0:01:56.68,0:01:59.78,Default,,0,0,0,,同时他们有大于常人2至3倍的可能表明\NThey were also two to three times more likely to say 
+Dialogue: 0,0:01:59.78,0:02:03.44,Default,,0,0,0,,担心 或者确实在心理健康方面难以得到帮助\Nthat they were worried about or had difficulty getting mental health care 
+Dialogue: 0,0:02:03.44,0:02:06.76,Default,,0,0,0,,在1990通过的美国残疾人法案中\Nwhile the Americans with Disabilities Act passed in 1990 
+Dialogue: 0,0:02:06.76,0:02:11.56,Default,,0,0,0,,禁止了雇主在选择求职者时明确地询问对方的疾病信息\Nprohibits employers from asking broad questions about illnesses when people apply for jobs,
+Dialogue: 0,0:02:11.56,0:02:16.22,Default,,0,0,0,,但是 国家医疗执照委员会仍明确询问申请者的心理健康状态\Nstate medical licensing board still ask specific questions about mental health.
+Dialogue: 0,0:02:16.22,0:02:19.84,Default,,0,0,0,,因此使得医师更有可能回避医疗措施\NBecause of this, physicians are much more likely to avoid treatment 
+Dialogue: 0,0:02:19.84,0:02:22.06,Default,,0,0,0,,并且更有可能尝试自我治疗\Nbut also more likely to self medicate. 
+Dialogue: 0,0:02:22.06,0:02:26.20,Default,,0,0,0,,此情况下 有时用药可能是合适的 比如抗抑郁药\NSometimes that medication is potentially appropriate, as with anti-depressants. 
+Dialogue: 0,0:02:26.20,0:02:28.20,Default,,0,0,0,,但是在大多数情况下不是的\NOften it is not. 
+Dialogue: 0,0:02:28.20,0:02:31.40,Default,,0,0,0,,一个2012年发表在美国医学会杂志外科板块的研究发现\N的A 2012 study in JAMA surgery found that 
+Dialogue: 0,0:02:31.40,0:02:35.26,Default,,0,0,0,,美国外科医师学会中有超过15%的成员\Nmore than 15% of the members of the American College of Surgeons 
+Dialogue: 0,0:02:35.26,0:02:39.24,Default,,0,0,0,,在鉴别测试中表现出了对酒精的滥用或依赖\Nhad a score on screening test consistent with alcohol abuse or dependence. 
+Dialogue: 0,0:02:39.24,0:02:43.44,Default,,0,0,0,,在女性外科医师中 这个概率大于25%\NAmong female surgeons the prevalence was more than 25%. 
+Dialogue: 0,0:02:43.44,0:02:48.52,Default,,0,0,0,,患有抑郁症的人滥用或者依赖酒精的倾向比常人更显著\NThose who were depressed were significantly more likely to abuse or be dependent on alcohol.
+Dialogue: 0,0:02:48.52,0:02:52.02,Default,,0,0,0,,同时 医生比其他人更容易获取药物\Ndoctors have much easier access to drugs than others as well. 
+Dialogue: 0,0:02:52.02,0:02:56.42,Default,,0,0,0,,因此他们比常人更有可能误用处方药物\NBecause of this they are more likely to misuse prescription drugs than the general population.
+Dialogue: 0,0:02:56.42,0:03:00.66,Default,,0,0,0,,麻醉医生甚至能比一般医生获取更多种类的药物\NAnesthesiologist have access to even more drugs than other physicians 
+Dialogue: 0,0:03:00.66,0:03:02.80,Default,,0,0,0,,因此在他们之中 误用药物的问题更加常见\Nand their problems are even more common. 
+Dialogue: 0,0:03:02.80,0:03:06.40,Default,,0,0,0,,在一个2005年的对麻醉医师实训项目的研究中 \NA 2005 study of anesthesia residency training programs,
+Dialogue: 0,0:03:06.40,0:03:10.70,Default,,0,0,0,,发现高达八成的成员表示曾见过不能正常工作的受训者\Nfound that eighty percent of them reported experiences with impaired residents
+Dialogue: 0,0:03:10.70,0:03:16.90,Default,,0,0,0,,20%的人至少听闻一例受训医生因滥用药物而死亡的事件\Nand almost 20% had experiences with at least one abuse-related death of a doctor in training.
+Dialogue: 0,0:03:16.90,0:03:21.66,Default,,0,0,0,,不幸的是 抑郁症和药物滥用可能导致更严重的问题 比如自杀\NUnfortunately, depression and substance abuse can lead to further problems including suicide 
+Dialogue: 0,0:03:21.66,0:03:26.34,Default,,0,0,0,,超过6%的外科医生表明一年之内曾有自杀的想法\Nmore than 6 percent of surgeons report suicidal ideation in the last year 
+Dialogue: 0,0:03:26.34,0:03:30.10,Default,,0,0,0,,但是其中只有四分之一的人寻求过某种心理治疗的帮助\Nyet only one-quarter of then sought any kind of mental health treatment. 
+Dialogue: 0,0:03:30.10,0:03:35.38,Default,,0,0,0,,大多数不寻求帮助的人 害怕如此会使他们难以获得执照\NMost who did not fear the doing so would affect their ability to obtain a license, 
+Dialogue: 0,0:03:35.38,0:03:37.90,Default,,0,0,0,,即使他们曾为自杀的想法而担心\Neven though they were worried about killing themselves.
+Dialogue: 0,0:03:37.90,0:03:40.12,Default,,0,0,0,,这个问题在医疗实习生中更为严重\NThe problem is even worse among medical trainees. 
+Dialogue: 0,0:03:40.12,0:03:45.10,Default,,0,0,0,,约6%的人表示在半个月之内曾有自杀的想法\NAbout 6 percent of them reported thinking about suicide in the last two weeks. 
+Dialogue: 0,0:03:45.10,0:03:47.10,Default,,0,0,0,,那些有抑郁病史的人\NThose with a history of depression 
+Dialogue: 0,0:03:47.10,0:03:51.84,Default,,0,0,0,,有大约高于他人四倍的可能产生自杀的想法\Nwere almost four times as likely to report recent suicidal thoughts as those without. 
+Dialogue: 0,0:03:51.84,0:03:54.98,Default,,0,0,0,,另外 有太多的医生真的尝试了自杀\NToo many doctors act on suicidal impulses as well.
+Dialogue: 0,0:03:54.98,0:03:59.20,Default,,0,0,0,,每年大约有400名医生自杀\NIt's estimated that about 400 physicians commit suicide each year, 
+Dialogue: 0,0:03:59.20,0:04:01.58,Default,,0,0,0,,这个数字大约是\Nthat's about three times as many doctors 
+Dialogue: 0,0:04:01.58,0:04:04.66,Default,,0,0,0,,我受教育的宾夕法尼亚大学医学班成员的三倍\Nas were in my medical school class at the University of Pennsylvania. 
+Dialogue: 0,0:04:04.66,0:04:08.82,Default,,0,0,0,,综合分析结果发现 男性医师的自杀率\NMeta-analyses estimate the rate of suicide among male physicians 
+Dialogue: 0,0:04:08.82,0:04:11.94,Default,,0,0,0,,大约是常人的140%\Nis a hundred and forty percent that of the general population.
+Dialogue: 0,0:04:11.94,0:04:15.90,Default,,0,0,0,,对女性医师而言这个数字接近230%\NAmong female physicians it's almost two hundred and thirty percent. 
+Dialogue: 0,0:04:15.90,0:04:17.46,Default,,0,0,0,,这个问题之所以重要\NWhat makes this important to discuss 
+Dialogue: 0,0:04:17.46,0:04:20.50,Default,,0,0,0,,并不是因为医生和实习医生中抑郁症的普遍性\Nis not the prevalence of depression in physicians and trainees, 
+Dialogue: 0,0:04:20.50,0:04:21.96,Default,,0,0,0,,虽然它明显很严重\Nalthough it's clearly too high, 
+Dialogue: 0,0:04:21.96,0:04:25.68,Default,,0,0,0,,也不是因为医师的自杀率比任何其他职业都高\Nit's not whether physicians have the highest suicide rate of any professional, 
+Dialogue: 0,0:04:25.68,0:04:27.60,Default,,0,0,0,,即使有的人认为确实如此\Nalthough many people argue that they do. 
+Dialogue: 0,0:04:27.60,0:04:31.58,Default,,0,0,0,,最为关键的问题是 太多的医疗从业者 尤其是实习生\NThe critical issue here is that too many physicians especially trainees 
+Dialogue: 0,0:04:31.58,0:04:34.50,Default,,0,0,0,,只是默默忍受痛苦 不敢寻求帮助\Nsuffer in silence, afraid to ask for help 
+Dialogue: 0,0:04:34.50,0:04:37.76,Default,,0,0,0,,只是因为害怕他们的职业生涯或者个人受到负面影响\Nfor fear that they will be punished professionally if not personally. 
+Dialogue: 0,0:04:37.76,0:04:40.50,Default,,0,0,0,,我一直对我实习期间的心理问题毫不避讳\NI've always been very open about my time in residency,
+Dialogue: 0,0:04:40.50,0:04:43.64,Default,,0,0,0,,比如抑郁如何夺取了我生活中的几年时光\Nand how depression someone robbed me of a few years of my life. 
+Dialogue: 0,0:04:43.64,0:04:46.86,Default,,0,0,0,,当我回首往事 我认为需要救助别人的长期压力\NWhen I look back, I think the constant pressure to help others 
+Dialogue: 0,0:04:46.86,0:04:49.60,Default,,0,0,0,,以及时常等着我的无助感\Ncoupled with frequent feelings of helplessness wait on me, 
+Dialogue: 0,0:04:49.60,0:04:53.92,Default,,0,0,0,,失眠 远离亲友 等原因都使我变得脆弱\Na lack of sleep and being away from family and friends left me vulnerable. 
+Dialogue: 0,0:04:53.92,0:04:58.14,Default,,0,0,0,,眼见我深深关心的孩子饱受痛苦 甚至死去\NSeeing children I've bonded with and cared for deeply suffer and die 
+Dialogue: 0,0:04:58.14,0:05:00.14,Default,,0,0,0,,常常使我无法承受\Nwas often more than I could bear. 
+Dialogue: 0,0:05:00.14,0:05:03.76,Default,,0,0,0,,而且我感到我个人生理或是行为的某部分\NAnd I think some part of me whether it be physical or behavioral 
+Dialogue: 0,0:05:03.76,0:05:06.36,Default,,0,0,0,,有焦虑和抑郁的倾向\Nis also predisposed to anxiety and depression. 
+Dialogue: 0,0:05:06.36,0:05:09.22,Default,,0,0,0,,但是我很幸运 感谢那些爱我的人给予我的支持\NBut I'm lucky, thanks to the support of those who love me 
+Dialogue: 0,0:05:09.22,0:05:12.58,Default,,0,0,0,,还有两名出色的心理治疗师的帮助 我已不再抑郁\Nas well as two excellent therapist, I'm no longer depressed. 
+Dialogue: 0,0:05:12.58,0:05:15.42,Default,,0,0,0,,虽然我一直很小心 提防可能的复发\NI remain vigilant, however, against a recurrence. 
+Dialogue: 0,0:05:15.42,0:05:20.22,Default,,0,0,0,,不管对我还是其他医师 了解自己的心理建康状态都很重要\NIt's important for me and for all physicians to stay on top of their mental health 
+Dialogue: 0,0:05:20.22,0:05:22.10,Default,,0,0,0,,而不能坐等危机发生\Nand not wait for a crisis to act. 
+Dialogue: 0,0:05:22.10,0:05:27.02,Default,,0,0,0,,我也有幸成为一名儿科医生 和一个让我集中的事情：科研\NI've also felt fortunate to be in a specialty: pediatrics and a focus: research
+Dialogue: 0,0:05:27.02,0:05:29.22,Default,,0,0,0,,使我不怕我的心理问题被发现\Nwhere I didn't fear being found out. 
+Dialogue: 0,0:05:29.22,0:05:32.82,Default,,0,0,0,,当我公开谈及心理治疗 或是我的未来人生规划时\NMany colleagues still recoil when I talked openly about therapy, 
+Dialogue: 0,0:05:32.82,0:05:34.98,Default,,0,0,0,,我的很多同事仍表示不愿讨论此事\Nor how I plan to go for the rest of my life. 
+Dialogue: 0,0:05:34.98,0:05:38.06,Default,,0,0,0,,我相信他们依然会觉得这个视频的内容很不合适\NI'm sure they'll find this episode concerning as well. 
+Dialogue: 0,0:05:38.06,0:05:40.86,Default,,0,0,0,,但这是我们不得不讨论的问题\NBut we can't not talk about this.
+Dialogue: 0,0:05:40.86,0:05:44.36,Default,,0,0,0,,有很多伙伴在痛苦之中 如果他们不能获得帮助\NToo many of us are suffering and if they can't get help from others, 
+Dialogue: 0,0:05:44.36,0:05:47.20,Default,,0,0,0,,他们可能在自我帮助的过程中失败\Nthey may try and fail to help themselves.
+Dialogue: 0,0:05:47.20,0:05:53.00,Default,,0,0,0,,自杀永远是一个悲剧 而一个医生的自杀则是荒谬的\NSuicide is always a tragedy. A physician committing suicide is a travesty.
